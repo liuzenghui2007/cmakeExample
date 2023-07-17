@@ -1,0 +1,3 @@
+/home/zenghui/polyseq/cmakeExample/e252/build/CMakeFiles/calc.dir
+/home/zenghui/polyseq/cmakeExample/e252/build/CMakeFiles/edit_cache.dir
+/home/zenghui/polyseq/cmakeExample/e252/build/CMakeFiles/rebuild_cache.dir
